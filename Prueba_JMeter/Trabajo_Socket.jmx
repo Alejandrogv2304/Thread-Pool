@@ -28,6 +28,17 @@
           <stringProp name="TCPSampler.timeout"></stringProp>
           <stringProp name="TCPSampler.ctimeout">10000</stringProp>
           <stringProp name="TCPSampler.request">Hola Mundo
+Perro
+Gato
+Colombia
+Esternocleidomastoideo
+Venezuela
+Gastroenteritis
+Endometriosis
+Gastritis
+Edificio
+Arbol
+Entierro
 </stringProp>
           <boolProp name="TCPSampler.closeConnection">true</boolProp>
           <stringProp name="TCPSampler.EolByte">10</stringProp>
