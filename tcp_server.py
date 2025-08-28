@@ -40,6 +40,14 @@ class TCPCharCounterServer:
         
         last_char = message[-1]
         count = message.count(last_char)
+
+        with open("pares.txt", "a") as archivo_pares, open("impares.txt", "a") as archivo_impares:
+         # Supongamos que tienes una lista de números o un cálculo
+           
+          if count % 2 == 0:
+            archivo_pares.write(str(count) + "\n")   # Guardar pares en pares.txt
+          else:
+            archivo_impares.write(str(count) + "\n") # Guardar impares en impares.txt
         
         return {
             'message': message,
@@ -140,7 +148,7 @@ class TCPCharCounterServer:
 
 def main():
     # Configuración del servidor
-    HOST = 'localhost'  # Cambiar si necesitas acceso externo
+    HOST = '0.0.0.0'  # Cambiar si necesitas acceso externo
     PORT = 5050         # Puerto a utilizar
     
     # Crear y iniciar servidor
