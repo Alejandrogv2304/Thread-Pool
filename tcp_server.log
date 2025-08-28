@@ -858,3 +858,805 @@
 2025-08-21 10:49:54,587 - INFO - Mensaje recibido de ('127.0.0.1', 44719): 'Hola Mundo'
 2025-08-21 10:49:54,588 - INFO - Respuesta enviada a ('127.0.0.1', 44719): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
 2025-08-21 10:49:54,588 - INFO - Conexión cerrada con ('127.0.0.1', 44719)
+2025-08-27 19:29:06,397 - INFO - Servidor iniciado en localhost:5050
+2025-08-27 19:29:06,398 - INFO - Esperando conexiones...
+2025-08-27 19:29:38,114 - INFO - Nueva conexión desde ('127.0.0.1', 65048)
+2025-08-27 19:29:38,125 - INFO - Mensaje recibido de ('127.0.0.1', 65048): 'Hola Mundo'
+2025-08-27 19:29:38,127 - INFO - Respuesta enviada a ('127.0.0.1', 65048): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,128 - INFO - Conexión cerrada con ('127.0.0.1', 65048)
+2025-08-27 19:29:38,137 - INFO - Nueva conexión desde ('127.0.0.1', 65049)
+2025-08-27 19:29:38,141 - INFO - Mensaje recibido de ('127.0.0.1', 65049): 'Hola Mundo'
+2025-08-27 19:29:38,142 - INFO - Respuesta enviada a ('127.0.0.1', 65049): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,144 - INFO - Conexión cerrada con ('127.0.0.1', 65049)
+2025-08-27 19:29:38,161 - INFO - Nueva conexión desde ('127.0.0.1', 65050)
+2025-08-27 19:29:38,163 - INFO - Mensaje recibido de ('127.0.0.1', 65050): 'Hola Mundo'
+2025-08-27 19:29:38,164 - INFO - Respuesta enviada a ('127.0.0.1', 65050): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,175 - INFO - Conexión cerrada con ('127.0.0.1', 65050)
+2025-08-27 19:29:38,189 - INFO - Nueva conexión desde ('127.0.0.1', 65051)
+2025-08-27 19:29:38,191 - INFO - Mensaje recibido de ('127.0.0.1', 65051): 'Hola Mundo'
+2025-08-27 19:29:38,196 - INFO - Respuesta enviada a ('127.0.0.1', 65051): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,204 - INFO - Conexión cerrada con ('127.0.0.1', 65051)
+2025-08-27 19:29:38,218 - INFO - Nueva conexión desde ('127.0.0.1', 65052)
+2025-08-27 19:29:38,220 - INFO - Mensaje recibido de ('127.0.0.1', 65052): 'Hola Mundo'
+2025-08-27 19:29:38,222 - INFO - Respuesta enviada a ('127.0.0.1', 65052): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,225 - INFO - Conexión cerrada con ('127.0.0.1', 65052)
+2025-08-27 19:29:38,240 - INFO - Nueva conexión desde ('127.0.0.1', 65053)
+2025-08-27 19:29:38,242 - INFO - Mensaje recibido de ('127.0.0.1', 65053): 'Hola Mundo'
+2025-08-27 19:29:38,247 - INFO - Respuesta enviada a ('127.0.0.1', 65053): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,250 - INFO - Conexión cerrada con ('127.0.0.1', 65053)
+2025-08-27 19:29:38,261 - INFO - Nueva conexión desde ('127.0.0.1', 65054)
+2025-08-27 19:29:38,262 - INFO - Mensaje recibido de ('127.0.0.1', 65054): 'Hola Mundo'
+2025-08-27 19:29:38,263 - INFO - Respuesta enviada a ('127.0.0.1', 65054): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,264 - INFO - Conexión cerrada con ('127.0.0.1', 65054)
+2025-08-27 19:29:38,287 - INFO - Nueva conexión desde ('127.0.0.1', 65055)
+2025-08-27 19:29:38,290 - INFO - Mensaje recibido de ('127.0.0.1', 65055): 'Hola Mundo'
+2025-08-27 19:29:38,292 - INFO - Respuesta enviada a ('127.0.0.1', 65055): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,293 - INFO - Conexión cerrada con ('127.0.0.1', 65055)
+2025-08-27 19:29:38,313 - INFO - Nueva conexión desde ('127.0.0.1', 65056)
+2025-08-27 19:29:38,314 - INFO - Mensaje recibido de ('127.0.0.1', 65056): 'Hola Mundo'
+2025-08-27 19:29:38,315 - INFO - Respuesta enviada a ('127.0.0.1', 65056): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,317 - INFO - Conexión cerrada con ('127.0.0.1', 65056)
+2025-08-27 19:29:38,339 - INFO - Nueva conexión desde ('127.0.0.1', 65057)
+2025-08-27 19:29:38,339 - INFO - Mensaje recibido de ('127.0.0.1', 65057): 'Hola Mundo'
+2025-08-27 19:29:38,341 - INFO - Respuesta enviada a ('127.0.0.1', 65057): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,343 - INFO - Conexión cerrada con ('127.0.0.1', 65057)
+2025-08-27 19:29:38,363 - INFO - Nueva conexión desde ('127.0.0.1', 65058)
+2025-08-27 19:29:38,363 - INFO - Mensaje recibido de ('127.0.0.1', 65058): 'Hola Mundo'
+2025-08-27 19:29:38,366 - INFO - Respuesta enviada a ('127.0.0.1', 65058): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,368 - INFO - Conexión cerrada con ('127.0.0.1', 65058)
+2025-08-27 19:29:38,390 - INFO - Nueva conexión desde ('127.0.0.1', 65059)
+2025-08-27 19:29:38,391 - INFO - Mensaje recibido de ('127.0.0.1', 65059): 'Hola Mundo'
+2025-08-27 19:29:38,392 - INFO - Respuesta enviada a ('127.0.0.1', 65059): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,393 - INFO - Conexión cerrada con ('127.0.0.1', 65059)
+2025-08-27 19:29:38,410 - INFO - Nueva conexión desde ('127.0.0.1', 65060)
+2025-08-27 19:29:38,411 - INFO - Mensaje recibido de ('127.0.0.1', 65060): 'Hola Mundo'
+2025-08-27 19:29:38,411 - INFO - Respuesta enviada a ('127.0.0.1', 65060): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,412 - INFO - Conexión cerrada con ('127.0.0.1', 65060)
+2025-08-27 19:29:38,440 - INFO - Nueva conexión desde ('127.0.0.1', 65061)
+2025-08-27 19:29:38,441 - INFO - Mensaje recibido de ('127.0.0.1', 65061): 'Hola Mundo'
+2025-08-27 19:29:38,442 - INFO - Respuesta enviada a ('127.0.0.1', 65061): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,443 - INFO - Conexión cerrada con ('127.0.0.1', 65061)
+2025-08-27 19:29:38,461 - INFO - Nueva conexión desde ('127.0.0.1', 65062)
+2025-08-27 19:29:38,462 - INFO - Mensaje recibido de ('127.0.0.1', 65062): 'Hola Mundo'
+2025-08-27 19:29:38,462 - INFO - Respuesta enviada a ('127.0.0.1', 65062): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,464 - INFO - Conexión cerrada con ('127.0.0.1', 65062)
+2025-08-27 19:29:38,487 - INFO - Nueva conexión desde ('127.0.0.1', 65063)
+2025-08-27 19:29:38,488 - INFO - Mensaje recibido de ('127.0.0.1', 65063): 'Hola Mundo'
+2025-08-27 19:29:38,489 - INFO - Respuesta enviada a ('127.0.0.1', 65063): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,491 - INFO - Conexión cerrada con ('127.0.0.1', 65063)
+2025-08-27 19:29:38,513 - INFO - Nueva conexión desde ('127.0.0.1', 65064)
+2025-08-27 19:29:38,514 - INFO - Mensaje recibido de ('127.0.0.1', 65064): 'Hola Mundo'
+2025-08-27 19:29:38,515 - INFO - Respuesta enviada a ('127.0.0.1', 65064): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,517 - INFO - Conexión cerrada con ('127.0.0.1', 65064)
+2025-08-27 19:29:38,538 - INFO - Nueva conexión desde ('127.0.0.1', 65065)
+2025-08-27 19:29:38,538 - INFO - Mensaje recibido de ('127.0.0.1', 65065): 'Hola Mundo'
+2025-08-27 19:29:38,538 - INFO - Respuesta enviada a ('127.0.0.1', 65065): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,540 - INFO - Conexión cerrada con ('127.0.0.1', 65065)
+2025-08-27 19:29:38,562 - INFO - Nueva conexión desde ('127.0.0.1', 65066)
+2025-08-27 19:29:38,563 - INFO - Mensaje recibido de ('127.0.0.1', 65066): 'Hola Mundo'
+2025-08-27 19:29:38,566 - INFO - Respuesta enviada a ('127.0.0.1', 65066): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,569 - INFO - Conexión cerrada con ('127.0.0.1', 65066)
+2025-08-27 19:29:38,588 - INFO - Nueva conexión desde ('127.0.0.1', 65067)
+2025-08-27 19:29:38,589 - INFO - Mensaje recibido de ('127.0.0.1', 65067): 'Hola Mundo'
+2025-08-27 19:29:38,590 - INFO - Respuesta enviada a ('127.0.0.1', 65067): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,590 - INFO - Conexión cerrada con ('127.0.0.1', 65067)
+2025-08-27 19:29:38,614 - INFO - Nueva conexión desde ('127.0.0.1', 65068)
+2025-08-27 19:29:38,616 - INFO - Mensaje recibido de ('127.0.0.1', 65068): 'Hola Mundo'
+2025-08-27 19:29:38,617 - INFO - Respuesta enviada a ('127.0.0.1', 65068): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,619 - INFO - Conexión cerrada con ('127.0.0.1', 65068)
+2025-08-27 19:29:38,640 - INFO - Nueva conexión desde ('127.0.0.1', 65069)
+2025-08-27 19:29:38,642 - INFO - Mensaje recibido de ('127.0.0.1', 65069): 'Hola Mundo'
+2025-08-27 19:29:38,642 - INFO - Respuesta enviada a ('127.0.0.1', 65069): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,644 - INFO - Conexión cerrada con ('127.0.0.1', 65069)
+2025-08-27 19:29:38,662 - INFO - Nueva conexión desde ('127.0.0.1', 65070)
+2025-08-27 19:29:38,663 - INFO - Mensaje recibido de ('127.0.0.1', 65070): 'Hola Mundo'
+2025-08-27 19:29:38,664 - INFO - Respuesta enviada a ('127.0.0.1', 65070): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,670 - INFO - Conexión cerrada con ('127.0.0.1', 65070)
+2025-08-27 19:29:38,691 - INFO - Nueva conexión desde ('127.0.0.1', 65071)
+2025-08-27 19:29:38,692 - INFO - Mensaje recibido de ('127.0.0.1', 65071): 'Hola Mundo'
+2025-08-27 19:29:38,693 - INFO - Respuesta enviada a ('127.0.0.1', 65071): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,694 - INFO - Conexión cerrada con ('127.0.0.1', 65071)
+2025-08-27 19:29:38,713 - INFO - Nueva conexión desde ('127.0.0.1', 65072)
+2025-08-27 19:29:38,717 - INFO - Mensaje recibido de ('127.0.0.1', 65072): 'Hola Mundo'
+2025-08-27 19:29:38,719 - INFO - Respuesta enviada a ('127.0.0.1', 65072): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,721 - INFO - Conexión cerrada con ('127.0.0.1', 65072)
+2025-08-27 19:29:38,740 - INFO - Nueva conexión desde ('127.0.0.1', 65073)
+2025-08-27 19:29:38,741 - INFO - Mensaje recibido de ('127.0.0.1', 65073): 'Hola Mundo'
+2025-08-27 19:29:38,742 - INFO - Respuesta enviada a ('127.0.0.1', 65073): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,742 - INFO - Conexión cerrada con ('127.0.0.1', 65073)
+2025-08-27 19:29:38,762 - INFO - Nueva conexión desde ('127.0.0.1', 65074)
+2025-08-27 19:29:38,764 - INFO - Mensaje recibido de ('127.0.0.1', 65074): 'Hola Mundo'
+2025-08-27 19:29:38,765 - INFO - Respuesta enviada a ('127.0.0.1', 65074): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,766 - INFO - Conexión cerrada con ('127.0.0.1', 65074)
+2025-08-27 19:29:38,787 - INFO - Nueva conexión desde ('127.0.0.1', 65075)
+2025-08-27 19:29:38,789 - INFO - Mensaje recibido de ('127.0.0.1', 65075): 'Hola Mundo'
+2025-08-27 19:29:38,790 - INFO - Respuesta enviada a ('127.0.0.1', 65075): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,791 - INFO - Conexión cerrada con ('127.0.0.1', 65075)
+2025-08-27 19:29:38,811 - INFO - Nueva conexión desde ('127.0.0.1', 65076)
+2025-08-27 19:29:38,812 - INFO - Mensaje recibido de ('127.0.0.1', 65076): 'Hola Mundo'
+2025-08-27 19:29:38,814 - INFO - Respuesta enviada a ('127.0.0.1', 65076): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,816 - INFO - Conexión cerrada con ('127.0.0.1', 65076)
+2025-08-27 19:29:38,839 - INFO - Nueva conexión desde ('127.0.0.1', 65077)
+2025-08-27 19:29:38,840 - INFO - Mensaje recibido de ('127.0.0.1', 65077): 'Hola Mundo'
+2025-08-27 19:29:38,840 - INFO - Respuesta enviada a ('127.0.0.1', 65077): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,842 - INFO - Conexión cerrada con ('127.0.0.1', 65077)
+2025-08-27 19:29:38,862 - INFO - Nueva conexión desde ('127.0.0.1', 65078)
+2025-08-27 19:29:38,865 - INFO - Mensaje recibido de ('127.0.0.1', 65078): 'Hola Mundo'
+2025-08-27 19:29:38,867 - INFO - Respuesta enviada a ('127.0.0.1', 65078): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,868 - INFO - Conexión cerrada con ('127.0.0.1', 65078)
+2025-08-27 19:29:38,893 - INFO - Nueva conexión desde ('127.0.0.1', 65079)
+2025-08-27 19:29:38,894 - INFO - Mensaje recibido de ('127.0.0.1', 65079): 'Hola Mundo'
+2025-08-27 19:29:38,894 - INFO - Respuesta enviada a ('127.0.0.1', 65079): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,896 - INFO - Conexión cerrada con ('127.0.0.1', 65079)
+2025-08-27 19:29:38,912 - INFO - Nueva conexión desde ('127.0.0.1', 65080)
+2025-08-27 19:29:38,915 - INFO - Mensaje recibido de ('127.0.0.1', 65080): 'Hola Mundo'
+2025-08-27 19:29:38,918 - INFO - Respuesta enviada a ('127.0.0.1', 65080): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,921 - INFO - Conexión cerrada con ('127.0.0.1', 65080)
+2025-08-27 19:29:38,941 - INFO - Nueva conexión desde ('127.0.0.1', 65081)
+2025-08-27 19:29:38,942 - INFO - Mensaje recibido de ('127.0.0.1', 65081): 'Hola Mundo'
+2025-08-27 19:29:38,944 - INFO - Respuesta enviada a ('127.0.0.1', 65081): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,945 - INFO - Conexión cerrada con ('127.0.0.1', 65081)
+2025-08-27 19:29:38,964 - INFO - Nueva conexión desde ('127.0.0.1', 65082)
+2025-08-27 19:29:38,967 - INFO - Mensaje recibido de ('127.0.0.1', 65082): 'Hola Mundo'
+2025-08-27 19:29:38,969 - INFO - Respuesta enviada a ('127.0.0.1', 65082): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,971 - INFO - Conexión cerrada con ('127.0.0.1', 65082)
+2025-08-27 19:29:38,989 - INFO - Nueva conexión desde ('127.0.0.1', 65083)
+2025-08-27 19:29:38,990 - INFO - Mensaje recibido de ('127.0.0.1', 65083): 'Hola Mundo'
+2025-08-27 19:29:38,992 - INFO - Respuesta enviada a ('127.0.0.1', 65083): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:38,994 - INFO - Conexión cerrada con ('127.0.0.1', 65083)
+2025-08-27 19:29:39,010 - INFO - Nueva conexión desde ('127.0.0.1', 65084)
+2025-08-27 19:29:39,011 - INFO - Mensaje recibido de ('127.0.0.1', 65084): 'Hola Mundo'
+2025-08-27 19:29:39,013 - INFO - Respuesta enviada a ('127.0.0.1', 65084): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,015 - INFO - Conexión cerrada con ('127.0.0.1', 65084)
+2025-08-27 19:29:39,038 - INFO - Nueva conexión desde ('127.0.0.1', 65085)
+2025-08-27 19:29:39,039 - INFO - Mensaje recibido de ('127.0.0.1', 65085): 'Hola Mundo'
+2025-08-27 19:29:39,040 - INFO - Respuesta enviada a ('127.0.0.1', 65085): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,041 - INFO - Conexión cerrada con ('127.0.0.1', 65085)
+2025-08-27 19:29:39,069 - INFO - Nueva conexión desde ('127.0.0.1', 65086)
+2025-08-27 19:29:39,071 - INFO - Mensaje recibido de ('127.0.0.1', 65086): 'Hola Mundo'
+2025-08-27 19:29:39,072 - INFO - Respuesta enviada a ('127.0.0.1', 65086): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,073 - INFO - Conexión cerrada con ('127.0.0.1', 65086)
+2025-08-27 19:29:39,088 - INFO - Nueva conexión desde ('127.0.0.1', 65087)
+2025-08-27 19:29:39,088 - INFO - Mensaje recibido de ('127.0.0.1', 65087): 'Hola Mundo'
+2025-08-27 19:29:39,089 - INFO - Respuesta enviada a ('127.0.0.1', 65087): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,090 - INFO - Conexión cerrada con ('127.0.0.1', 65087)
+2025-08-27 19:29:39,110 - INFO - Nueva conexión desde ('127.0.0.1', 65088)
+2025-08-27 19:29:39,111 - INFO - Mensaje recibido de ('127.0.0.1', 65088): 'Hola Mundo'
+2025-08-27 19:29:39,115 - INFO - Respuesta enviada a ('127.0.0.1', 65088): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,118 - INFO - Conexión cerrada con ('127.0.0.1', 65088)
+2025-08-27 19:29:39,136 - INFO - Nueva conexión desde ('127.0.0.1', 65089)
+2025-08-27 19:29:39,137 - INFO - Mensaje recibido de ('127.0.0.1', 65089): 'Hola Mundo'
+2025-08-27 19:29:39,138 - INFO - Respuesta enviada a ('127.0.0.1', 65089): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,139 - INFO - Conexión cerrada con ('127.0.0.1', 65089)
+2025-08-27 19:29:39,160 - INFO - Nueva conexión desde ('127.0.0.1', 65090)
+2025-08-27 19:29:39,161 - INFO - Mensaje recibido de ('127.0.0.1', 65090): 'Hola Mundo'
+2025-08-27 19:29:39,161 - INFO - Respuesta enviada a ('127.0.0.1', 65090): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,162 - INFO - Conexión cerrada con ('127.0.0.1', 65090)
+2025-08-27 19:29:39,188 - INFO - Nueva conexión desde ('127.0.0.1', 65091)
+2025-08-27 19:29:39,190 - INFO - Mensaje recibido de ('127.0.0.1', 65091): 'Hola Mundo'
+2025-08-27 19:29:39,192 - INFO - Respuesta enviada a ('127.0.0.1', 65091): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,193 - INFO - Conexión cerrada con ('127.0.0.1', 65091)
+2025-08-27 19:29:39,210 - INFO - Nueva conexión desde ('127.0.0.1', 65092)
+2025-08-27 19:29:39,211 - INFO - Mensaje recibido de ('127.0.0.1', 65092): 'Hola Mundo'
+2025-08-27 19:29:39,211 - INFO - Respuesta enviada a ('127.0.0.1', 65092): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,213 - INFO - Conexión cerrada con ('127.0.0.1', 65092)
+2025-08-27 19:29:39,235 - INFO - Nueva conexión desde ('127.0.0.1', 65093)
+2025-08-27 19:29:39,238 - INFO - Mensaje recibido de ('127.0.0.1', 65093): 'Hola Mundo'
+2025-08-27 19:29:39,239 - INFO - Respuesta enviada a ('127.0.0.1', 65093): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,240 - INFO - Conexión cerrada con ('127.0.0.1', 65093)
+2025-08-27 19:29:39,258 - INFO - Nueva conexión desde ('127.0.0.1', 65094)
+2025-08-27 19:29:39,259 - INFO - Mensaje recibido de ('127.0.0.1', 65094): 'Hola Mundo'
+2025-08-27 19:29:39,259 - INFO - Respuesta enviada a ('127.0.0.1', 65094): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,261 - INFO - Conexión cerrada con ('127.0.0.1', 65094)
+2025-08-27 19:29:39,292 - INFO - Nueva conexión desde ('127.0.0.1', 65095)
+2025-08-27 19:29:39,293 - INFO - Mensaje recibido de ('127.0.0.1', 65095): 'Hola Mundo'
+2025-08-27 19:29:39,294 - INFO - Respuesta enviada a ('127.0.0.1', 65095): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,295 - INFO - Conexión cerrada con ('127.0.0.1', 65095)
+2025-08-27 19:29:39,308 - INFO - Nueva conexión desde ('127.0.0.1', 65096)
+2025-08-27 19:29:39,309 - INFO - Mensaje recibido de ('127.0.0.1', 65096): 'Hola Mundo'
+2025-08-27 19:29:39,310 - INFO - Respuesta enviada a ('127.0.0.1', 65096): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,311 - INFO - Conexión cerrada con ('127.0.0.1', 65096)
+2025-08-27 19:29:39,340 - INFO - Nueva conexión desde ('127.0.0.1', 65097)
+2025-08-27 19:29:39,342 - INFO - Mensaje recibido de ('127.0.0.1', 65097): 'Hola Mundo'
+2025-08-27 19:29:39,343 - INFO - Respuesta enviada a ('127.0.0.1', 65097): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,344 - INFO - Conexión cerrada con ('127.0.0.1', 65097)
+2025-08-27 19:29:39,361 - INFO - Nueva conexión desde ('127.0.0.1', 65098)
+2025-08-27 19:29:39,362 - INFO - Mensaje recibido de ('127.0.0.1', 65098): 'Hola Mundo'
+2025-08-27 19:29:39,365 - INFO - Respuesta enviada a ('127.0.0.1', 65098): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,367 - INFO - Conexión cerrada con ('127.0.0.1', 65098)
+2025-08-27 19:29:39,389 - INFO - Nueva conexión desde ('127.0.0.1', 65099)
+2025-08-27 19:29:39,391 - INFO - Mensaje recibido de ('127.0.0.1', 65099): 'Hola Mundo'
+2025-08-27 19:29:39,391 - INFO - Respuesta enviada a ('127.0.0.1', 65099): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,392 - INFO - Conexión cerrada con ('127.0.0.1', 65099)
+2025-08-27 19:29:39,412 - INFO - Nueva conexión desde ('127.0.0.1', 65100)
+2025-08-27 19:29:39,413 - INFO - Mensaje recibido de ('127.0.0.1', 65100): 'Hola Mundo'
+2025-08-27 19:29:39,416 - INFO - Respuesta enviada a ('127.0.0.1', 65100): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,417 - INFO - Conexión cerrada con ('127.0.0.1', 65100)
+2025-08-27 19:29:39,439 - INFO - Nueva conexión desde ('127.0.0.1', 65101)
+2025-08-27 19:29:39,441 - INFO - Mensaje recibido de ('127.0.0.1', 65101): 'Hola Mundo'
+2025-08-27 19:29:39,442 - INFO - Respuesta enviada a ('127.0.0.1', 65101): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,443 - INFO - Conexión cerrada con ('127.0.0.1', 65101)
+2025-08-27 19:29:39,462 - INFO - Nueva conexión desde ('127.0.0.1', 65102)
+2025-08-27 19:29:39,463 - INFO - Mensaje recibido de ('127.0.0.1', 65102): 'Hola Mundo'
+2025-08-27 19:29:39,464 - INFO - Respuesta enviada a ('127.0.0.1', 65102): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,467 - INFO - Conexión cerrada con ('127.0.0.1', 65102)
+2025-08-27 19:29:39,488 - INFO - Nueva conexión desde ('127.0.0.1', 65103)
+2025-08-27 19:29:39,488 - INFO - Mensaje recibido de ('127.0.0.1', 65103): 'Hola Mundo'
+2025-08-27 19:29:39,489 - INFO - Respuesta enviada a ('127.0.0.1', 65103): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,489 - INFO - Conexión cerrada con ('127.0.0.1', 65103)
+2025-08-27 19:29:39,513 - INFO - Nueva conexión desde ('127.0.0.1', 65104)
+2025-08-27 19:29:39,515 - INFO - Mensaje recibido de ('127.0.0.1', 65104): 'Hola Mundo'
+2025-08-27 19:29:39,516 - INFO - Respuesta enviada a ('127.0.0.1', 65104): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,518 - INFO - Conexión cerrada con ('127.0.0.1', 65104)
+2025-08-27 19:29:39,538 - INFO - Nueva conexión desde ('127.0.0.1', 65105)
+2025-08-27 19:29:39,538 - INFO - Mensaje recibido de ('127.0.0.1', 65105): 'Hola Mundo'
+2025-08-27 19:29:39,539 - INFO - Respuesta enviada a ('127.0.0.1', 65105): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,539 - INFO - Conexión cerrada con ('127.0.0.1', 65105)
+2025-08-27 19:29:39,561 - INFO - Nueva conexión desde ('127.0.0.1', 65106)
+2025-08-27 19:29:39,563 - INFO - Mensaje recibido de ('127.0.0.1', 65106): 'Hola Mundo'
+2025-08-27 19:29:39,564 - INFO - Respuesta enviada a ('127.0.0.1', 65106): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,565 - INFO - Conexión cerrada con ('127.0.0.1', 65106)
+2025-08-27 19:29:39,586 - INFO - Nueva conexión desde ('127.0.0.1', 65107)
+2025-08-27 19:29:39,587 - INFO - Mensaje recibido de ('127.0.0.1', 65107): 'Hola Mundo'
+2025-08-27 19:29:39,587 - INFO - Respuesta enviada a ('127.0.0.1', 65107): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,589 - INFO - Conexión cerrada con ('127.0.0.1', 65107)
+2025-08-27 19:29:39,609 - INFO - Nueva conexión desde ('127.0.0.1', 65108)
+2025-08-27 19:29:39,610 - INFO - Mensaje recibido de ('127.0.0.1', 65108): 'Hola Mundo'
+2025-08-27 19:29:39,611 - INFO - Respuesta enviada a ('127.0.0.1', 65108): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,613 - INFO - Conexión cerrada con ('127.0.0.1', 65108)
+2025-08-27 19:29:39,639 - INFO - Nueva conexión desde ('127.0.0.1', 65109)
+2025-08-27 19:29:39,639 - INFO - Mensaje recibido de ('127.0.0.1', 65109): 'Hola Mundo'
+2025-08-27 19:29:39,640 - INFO - Respuesta enviada a ('127.0.0.1', 65109): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,640 - INFO - Conexión cerrada con ('127.0.0.1', 65109)
+2025-08-27 19:29:39,664 - INFO - Nueva conexión desde ('127.0.0.1', 65110)
+2025-08-27 19:29:39,666 - INFO - Mensaje recibido de ('127.0.0.1', 65110): 'Hola Mundo'
+2025-08-27 19:29:39,668 - INFO - Respuesta enviada a ('127.0.0.1', 65110): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,669 - INFO - Conexión cerrada con ('127.0.0.1', 65110)
+2025-08-27 19:29:39,689 - INFO - Nueva conexión desde ('127.0.0.1', 65111)
+2025-08-27 19:29:39,690 - INFO - Mensaje recibido de ('127.0.0.1', 65111): 'Hola Mundo'
+2025-08-27 19:29:39,690 - INFO - Respuesta enviada a ('127.0.0.1', 65111): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,691 - INFO - Conexión cerrada con ('127.0.0.1', 65111)
+2025-08-27 19:29:39,711 - INFO - Nueva conexión desde ('127.0.0.1', 65112)
+2025-08-27 19:29:39,712 - INFO - Mensaje recibido de ('127.0.0.1', 65112): 'Hola Mundo'
+2025-08-27 19:29:39,715 - INFO - Respuesta enviada a ('127.0.0.1', 65112): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,718 - INFO - Conexión cerrada con ('127.0.0.1', 65112)
+2025-08-27 19:29:39,740 - INFO - Nueva conexión desde ('127.0.0.1', 65113)
+2025-08-27 19:29:39,740 - INFO - Mensaje recibido de ('127.0.0.1', 65113): 'Hola Mundo'
+2025-08-27 19:29:39,741 - INFO - Respuesta enviada a ('127.0.0.1', 65113): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,741 - INFO - Conexión cerrada con ('127.0.0.1', 65113)
+2025-08-27 19:29:39,760 - INFO - Nueva conexión desde ('127.0.0.1', 65114)
+2025-08-27 19:29:39,760 - INFO - Mensaje recibido de ('127.0.0.1', 65114): 'Hola Mundo'
+2025-08-27 19:29:39,761 - INFO - Respuesta enviada a ('127.0.0.1', 65114): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,762 - INFO - Conexión cerrada con ('127.0.0.1', 65114)
+2025-08-27 19:29:39,796 - INFO - Nueva conexión desde ('127.0.0.1', 65115)
+2025-08-27 19:29:39,798 - INFO - Mensaje recibido de ('127.0.0.1', 65115): 'Hola Mundo'
+2025-08-27 19:29:39,799 - INFO - Respuesta enviada a ('127.0.0.1', 65115): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,800 - INFO - Conexión cerrada con ('127.0.0.1', 65115)
+2025-08-27 19:29:39,810 - INFO - Nueva conexión desde ('127.0.0.1', 65116)
+2025-08-27 19:29:39,811 - INFO - Mensaje recibido de ('127.0.0.1', 65116): 'Hola Mundo'
+2025-08-27 19:29:39,811 - INFO - Respuesta enviada a ('127.0.0.1', 65116): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,813 - INFO - Conexión cerrada con ('127.0.0.1', 65116)
+2025-08-27 19:29:39,838 - INFO - Nueva conexión desde ('127.0.0.1', 65117)
+2025-08-27 19:29:39,839 - INFO - Mensaje recibido de ('127.0.0.1', 65117): 'Hola Mundo'
+2025-08-27 19:29:39,840 - INFO - Respuesta enviada a ('127.0.0.1', 65117): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,840 - INFO - Conexión cerrada con ('127.0.0.1', 65117)
+2025-08-27 19:29:39,862 - INFO - Nueva conexión desde ('127.0.0.1', 65118)
+2025-08-27 19:29:39,862 - INFO - Mensaje recibido de ('127.0.0.1', 65118): 'Hola Mundo'
+2025-08-27 19:29:39,863 - INFO - Respuesta enviada a ('127.0.0.1', 65118): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,865 - INFO - Conexión cerrada con ('127.0.0.1', 65118)
+2025-08-27 19:29:39,889 - INFO - Nueva conexión desde ('127.0.0.1', 65119)
+2025-08-27 19:29:39,889 - INFO - Mensaje recibido de ('127.0.0.1', 65119): 'Hola Mundo'
+2025-08-27 19:29:39,890 - INFO - Respuesta enviada a ('127.0.0.1', 65119): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,890 - INFO - Conexión cerrada con ('127.0.0.1', 65119)
+2025-08-27 19:29:39,908 - INFO - Nueva conexión desde ('127.0.0.1', 65120)
+2025-08-27 19:29:39,909 - INFO - Mensaje recibido de ('127.0.0.1', 65120): 'Hola Mundo'
+2025-08-27 19:29:39,910 - INFO - Respuesta enviada a ('127.0.0.1', 65120): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,910 - INFO - Conexión cerrada con ('127.0.0.1', 65120)
+2025-08-27 19:29:39,940 - INFO - Nueva conexión desde ('127.0.0.1', 65121)
+2025-08-27 19:29:39,940 - INFO - Mensaje recibido de ('127.0.0.1', 65121): 'Hola Mundo'
+2025-08-27 19:29:39,940 - INFO - Respuesta enviada a ('127.0.0.1', 65121): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,940 - INFO - Conexión cerrada con ('127.0.0.1', 65121)
+2025-08-27 19:29:39,971 - INFO - Nueva conexión desde ('127.0.0.1', 65122)
+2025-08-27 19:29:39,972 - INFO - Mensaje recibido de ('127.0.0.1', 65122): 'Hola Mundo'
+2025-08-27 19:29:39,972 - INFO - Respuesta enviada a ('127.0.0.1', 65122): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,972 - INFO - Conexión cerrada con ('127.0.0.1', 65122)
+2025-08-27 19:29:39,991 - INFO - Nueva conexión desde ('127.0.0.1', 65123)
+2025-08-27 19:29:39,991 - INFO - Mensaje recibido de ('127.0.0.1', 65123): 'Hola Mundo'
+2025-08-27 19:29:39,991 - INFO - Respuesta enviada a ('127.0.0.1', 65123): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:39,992 - INFO - Conexión cerrada con ('127.0.0.1', 65123)
+2025-08-27 19:29:40,017 - INFO - Nueva conexión desde ('127.0.0.1', 65124)
+2025-08-27 19:29:40,018 - INFO - Mensaje recibido de ('127.0.0.1', 65124): 'Hola Mundo'
+2025-08-27 19:29:40,018 - INFO - Respuesta enviada a ('127.0.0.1', 65124): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,019 - INFO - Conexión cerrada con ('127.0.0.1', 65124)
+2025-08-27 19:29:40,042 - INFO - Nueva conexión desde ('127.0.0.1', 65125)
+2025-08-27 19:29:40,043 - INFO - Mensaje recibido de ('127.0.0.1', 65125): 'Hola Mundo'
+2025-08-27 19:29:40,043 - INFO - Respuesta enviada a ('127.0.0.1', 65125): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,043 - INFO - Conexión cerrada con ('127.0.0.1', 65125)
+2025-08-27 19:29:40,068 - INFO - Nueva conexión desde ('127.0.0.1', 65126)
+2025-08-27 19:29:40,069 - INFO - Mensaje recibido de ('127.0.0.1', 65126): 'Hola Mundo'
+2025-08-27 19:29:40,070 - INFO - Respuesta enviada a ('127.0.0.1', 65126): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,071 - INFO - Conexión cerrada con ('127.0.0.1', 65126)
+2025-08-27 19:29:40,090 - INFO - Nueva conexión desde ('127.0.0.1', 65127)
+2025-08-27 19:29:40,091 - INFO - Mensaje recibido de ('127.0.0.1', 65127): 'Hola Mundo'
+2025-08-27 19:29:40,091 - INFO - Respuesta enviada a ('127.0.0.1', 65127): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,092 - INFO - Conexión cerrada con ('127.0.0.1', 65127)
+2025-08-27 19:29:40,119 - INFO - Nueva conexión desde ('127.0.0.1', 65128)
+2025-08-27 19:29:40,119 - INFO - Mensaje recibido de ('127.0.0.1', 65128): 'Hola Mundo'
+2025-08-27 19:29:40,120 - INFO - Respuesta enviada a ('127.0.0.1', 65128): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,121 - INFO - Conexión cerrada con ('127.0.0.1', 65128)
+2025-08-27 19:29:40,141 - INFO - Nueva conexión desde ('127.0.0.1', 65129)
+2025-08-27 19:29:40,141 - INFO - Mensaje recibido de ('127.0.0.1', 65129): 'Hola Mundo'
+2025-08-27 19:29:40,141 - INFO - Respuesta enviada a ('127.0.0.1', 65129): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,142 - INFO - Conexión cerrada con ('127.0.0.1', 65129)
+2025-08-27 19:29:40,160 - INFO - Nueva conexión desde ('127.0.0.1', 65130)
+2025-08-27 19:29:40,160 - INFO - Mensaje recibido de ('127.0.0.1', 65130): 'Hola Mundo'
+2025-08-27 19:29:40,160 - INFO - Respuesta enviada a ('127.0.0.1', 65130): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,161 - INFO - Conexión cerrada con ('127.0.0.1', 65130)
+2025-08-27 19:29:40,200 - INFO - Nueva conexión desde ('127.0.0.1', 65131)
+2025-08-27 19:29:40,202 - INFO - Mensaje recibido de ('127.0.0.1', 65131): 'Hola Mundo'
+2025-08-27 19:29:40,202 - INFO - Respuesta enviada a ('127.0.0.1', 65131): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,202 - INFO - Conexión cerrada con ('127.0.0.1', 65131)
+2025-08-27 19:29:40,218 - INFO - Nueva conexión desde ('127.0.0.1', 65132)
+2025-08-27 19:29:40,218 - INFO - Mensaje recibido de ('127.0.0.1', 65132): 'Hola Mundo'
+2025-08-27 19:29:40,219 - INFO - Respuesta enviada a ('127.0.0.1', 65132): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,220 - INFO - Conexión cerrada con ('127.0.0.1', 65132)
+2025-08-27 19:29:40,239 - INFO - Nueva conexión desde ('127.0.0.1', 65133)
+2025-08-27 19:29:40,240 - INFO - Mensaje recibido de ('127.0.0.1', 65133): 'Hola Mundo'
+2025-08-27 19:29:40,240 - INFO - Respuesta enviada a ('127.0.0.1', 65133): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,241 - INFO - Conexión cerrada con ('127.0.0.1', 65133)
+2025-08-27 19:29:40,273 - INFO - Nueva conexión desde ('127.0.0.1', 65134)
+2025-08-27 19:29:40,274 - INFO - Mensaje recibido de ('127.0.0.1', 65134): 'Hola Mundo'
+2025-08-27 19:29:40,275 - INFO - Respuesta enviada a ('127.0.0.1', 65134): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,276 - INFO - Conexión cerrada con ('127.0.0.1', 65134)
+2025-08-27 19:29:40,290 - INFO - Nueva conexión desde ('127.0.0.1', 65135)
+2025-08-27 19:29:40,291 - INFO - Mensaje recibido de ('127.0.0.1', 65135): 'Hola Mundo'
+2025-08-27 19:29:40,292 - INFO - Respuesta enviada a ('127.0.0.1', 65135): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,292 - INFO - Conexión cerrada con ('127.0.0.1', 65135)
+2025-08-27 19:29:40,324 - INFO - Nueva conexión desde ('127.0.0.1', 65136)
+2025-08-27 19:29:40,327 - INFO - Mensaje recibido de ('127.0.0.1', 65136): 'Hola Mundo'
+2025-08-27 19:29:40,327 - INFO - Respuesta enviada a ('127.0.0.1', 65136): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,328 - INFO - Conexión cerrada con ('127.0.0.1', 65136)
+2025-08-27 19:29:40,345 - INFO - Nueva conexión desde ('127.0.0.1', 65137)
+2025-08-27 19:29:40,346 - INFO - Mensaje recibido de ('127.0.0.1', 65137): 'Hola Mundo'
+2025-08-27 19:29:40,348 - INFO - Respuesta enviada a ('127.0.0.1', 65137): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,348 - INFO - Conexión cerrada con ('127.0.0.1', 65137)
+2025-08-27 19:29:40,393 - INFO - Nueva conexión desde ('127.0.0.1', 65138)
+2025-08-27 19:29:40,394 - INFO - Mensaje recibido de ('127.0.0.1', 65138): 'Hola Mundo'
+2025-08-27 19:29:40,395 - INFO - Respuesta enviada a ('127.0.0.1', 65138): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,396 - INFO - Conexión cerrada con ('127.0.0.1', 65138)
+2025-08-27 19:29:40,422 - INFO - Nueva conexión desde ('127.0.0.1', 65139)
+2025-08-27 19:29:40,422 - INFO - Mensaje recibido de ('127.0.0.1', 65139): 'Hola Mundo'
+2025-08-27 19:29:40,423 - INFO - Respuesta enviada a ('127.0.0.1', 65139): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,424 - INFO - Conexión cerrada con ('127.0.0.1', 65139)
+2025-08-27 19:29:40,442 - INFO - Nueva conexión desde ('127.0.0.1', 65140)
+2025-08-27 19:29:40,443 - INFO - Mensaje recibido de ('127.0.0.1', 65140): 'Hola Mundo'
+2025-08-27 19:29:40,443 - INFO - Respuesta enviada a ('127.0.0.1', 65140): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,444 - INFO - Conexión cerrada con ('127.0.0.1', 65140)
+2025-08-27 19:29:40,451 - INFO - Nueva conexión desde ('127.0.0.1', 65141)
+2025-08-27 19:29:40,452 - INFO - Mensaje recibido de ('127.0.0.1', 65141): 'Hola Mundo'
+2025-08-27 19:29:40,453 - INFO - Respuesta enviada a ('127.0.0.1', 65141): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,455 - INFO - Conexión cerrada con ('127.0.0.1', 65141)
+2025-08-27 19:29:40,471 - INFO - Nueva conexión desde ('127.0.0.1', 65142)
+2025-08-27 19:29:40,472 - INFO - Mensaje recibido de ('127.0.0.1', 65142): 'Hola Mundo'
+2025-08-27 19:29:40,473 - INFO - Respuesta enviada a ('127.0.0.1', 65142): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,473 - INFO - Conexión cerrada con ('127.0.0.1', 65142)
+2025-08-27 19:29:40,493 - INFO - Nueva conexión desde ('127.0.0.1', 65143)
+2025-08-27 19:29:40,493 - INFO - Mensaje recibido de ('127.0.0.1', 65143): 'Hola Mundo'
+2025-08-27 19:29:40,494 - INFO - Respuesta enviada a ('127.0.0.1', 65143): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,494 - INFO - Conexión cerrada con ('127.0.0.1', 65143)
+2025-08-27 19:29:40,519 - INFO - Nueva conexión desde ('127.0.0.1', 65144)
+2025-08-27 19:29:40,521 - INFO - Mensaje recibido de ('127.0.0.1', 65144): 'Hola Mundo'
+2025-08-27 19:29:40,522 - INFO - Respuesta enviada a ('127.0.0.1', 65144): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,523 - INFO - Conexión cerrada con ('127.0.0.1', 65144)
+2025-08-27 19:29:40,544 - INFO - Nueva conexión desde ('127.0.0.1', 65145)
+2025-08-27 19:29:40,544 - INFO - Mensaje recibido de ('127.0.0.1', 65145): 'Hola Mundo'
+2025-08-27 19:29:40,545 - INFO - Respuesta enviada a ('127.0.0.1', 65145): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,546 - INFO - Conexión cerrada con ('127.0.0.1', 65145)
+2025-08-27 19:29:40,571 - INFO - Nueva conexión desde ('127.0.0.1', 65146)
+2025-08-27 19:29:40,572 - INFO - Mensaje recibido de ('127.0.0.1', 65146): 'Hola Mundo'
+2025-08-27 19:29:40,573 - INFO - Respuesta enviada a ('127.0.0.1', 65146): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,575 - INFO - Conexión cerrada con ('127.0.0.1', 65146)
+2025-08-27 19:29:40,594 - INFO - Nueva conexión desde ('127.0.0.1', 65147)
+2025-08-27 19:29:40,594 - INFO - Mensaje recibido de ('127.0.0.1', 65147): 'Hola Mundo'
+2025-08-27 19:29:40,594 - INFO - Respuesta enviada a ('127.0.0.1', 65147): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,596 - INFO - Conexión cerrada con ('127.0.0.1', 65147)
+2025-08-27 19:29:40,625 - INFO - Nueva conexión desde ('127.0.0.1', 65148)
+2025-08-27 19:29:40,625 - INFO - Mensaje recibido de ('127.0.0.1', 65148): 'Hola Mundo'
+2025-08-27 19:29:40,626 - INFO - Respuesta enviada a ('127.0.0.1', 65148): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,626 - INFO - Conexión cerrada con ('127.0.0.1', 65148)
+2025-08-27 19:29:40,644 - INFO - Nueva conexión desde ('127.0.0.1', 65149)
+2025-08-27 19:29:40,645 - INFO - Mensaje recibido de ('127.0.0.1', 65149): 'Hola Mundo'
+2025-08-27 19:29:40,651 - INFO - Respuesta enviada a ('127.0.0.1', 65149): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,652 - INFO - Conexión cerrada con ('127.0.0.1', 65149)
+2025-08-27 19:29:40,671 - INFO - Nueva conexión desde ('127.0.0.1', 65150)
+2025-08-27 19:29:40,672 - INFO - Mensaje recibido de ('127.0.0.1', 65150): 'Hola Mundo'
+2025-08-27 19:29:40,673 - INFO - Respuesta enviada a ('127.0.0.1', 65150): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,675 - INFO - Conexión cerrada con ('127.0.0.1', 65150)
+2025-08-27 19:29:40,696 - INFO - Nueva conexión desde ('127.0.0.1', 65151)
+2025-08-27 19:29:40,699 - INFO - Mensaje recibido de ('127.0.0.1', 65151): 'Hola Mundo'
+2025-08-27 19:29:40,702 - INFO - Respuesta enviada a ('127.0.0.1', 65151): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,704 - INFO - Conexión cerrada con ('127.0.0.1', 65151)
+2025-08-27 19:29:40,721 - INFO - Nueva conexión desde ('127.0.0.1', 65152)
+2025-08-27 19:29:40,722 - INFO - Mensaje recibido de ('127.0.0.1', 65152): 'Hola Mundo'
+2025-08-27 19:29:40,724 - INFO - Respuesta enviada a ('127.0.0.1', 65152): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,726 - INFO - Conexión cerrada con ('127.0.0.1', 65152)
+2025-08-27 19:29:40,746 - INFO - Nueva conexión desde ('127.0.0.1', 65153)
+2025-08-27 19:29:40,747 - INFO - Mensaje recibido de ('127.0.0.1', 65153): 'Hola Mundo'
+2025-08-27 19:29:40,748 - INFO - Respuesta enviada a ('127.0.0.1', 65153): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,753 - INFO - Conexión cerrada con ('127.0.0.1', 65153)
+2025-08-27 19:29:40,770 - INFO - Nueva conexión desde ('127.0.0.1', 65154)
+2025-08-27 19:29:40,771 - INFO - Mensaje recibido de ('127.0.0.1', 65154): 'Hola Mundo'
+2025-08-27 19:29:40,773 - INFO - Respuesta enviada a ('127.0.0.1', 65154): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,774 - INFO - Conexión cerrada con ('127.0.0.1', 65154)
+2025-08-27 19:29:40,795 - INFO - Nueva conexión desde ('127.0.0.1', 65155)
+2025-08-27 19:29:40,796 - INFO - Mensaje recibido de ('127.0.0.1', 65155): 'Hola Mundo'
+2025-08-27 19:29:40,797 - INFO - Respuesta enviada a ('127.0.0.1', 65155): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,798 - INFO - Conexión cerrada con ('127.0.0.1', 65155)
+2025-08-27 19:29:40,811 - INFO - Nueva conexión desde ('127.0.0.1', 65156)
+2025-08-27 19:29:40,812 - INFO - Mensaje recibido de ('127.0.0.1', 65156): 'Hola Mundo'
+2025-08-27 19:29:40,813 - INFO - Respuesta enviada a ('127.0.0.1', 65156): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,816 - INFO - Conexión cerrada con ('127.0.0.1', 65156)
+2025-08-27 19:29:40,844 - INFO - Nueva conexión desde ('127.0.0.1', 65157)
+2025-08-27 19:29:40,845 - INFO - Mensaje recibido de ('127.0.0.1', 65157): 'Hola Mundo'
+2025-08-27 19:29:40,846 - INFO - Respuesta enviada a ('127.0.0.1', 65157): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,848 - INFO - Conexión cerrada con ('127.0.0.1', 65157)
+2025-08-27 19:29:40,874 - INFO - Nueva conexión desde ('127.0.0.1', 65158)
+2025-08-27 19:29:40,875 - INFO - Mensaje recibido de ('127.0.0.1', 65158): 'Hola Mundo'
+2025-08-27 19:29:40,875 - INFO - Respuesta enviada a ('127.0.0.1', 65158): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,876 - INFO - Conexión cerrada con ('127.0.0.1', 65158)
+2025-08-27 19:29:40,924 - INFO - Nueva conexión desde ('127.0.0.1', 65159)
+2025-08-27 19:29:40,924 - INFO - Mensaje recibido de ('127.0.0.1', 65159): 'Hola Mundo'
+2025-08-27 19:29:40,925 - INFO - Respuesta enviada a ('127.0.0.1', 65159): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,925 - INFO - Conexión cerrada con ('127.0.0.1', 65159)
+2025-08-27 19:29:40,938 - INFO - Nueva conexión desde ('127.0.0.1', 65160)
+2025-08-27 19:29:40,939 - INFO - Mensaje recibido de ('127.0.0.1', 65160): 'Hola Mundo'
+2025-08-27 19:29:40,939 - INFO - Respuesta enviada a ('127.0.0.1', 65160): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,940 - INFO - Conexión cerrada con ('127.0.0.1', 65160)
+2025-08-27 19:29:40,952 - INFO - Nueva conexión desde ('127.0.0.1', 65161)
+2025-08-27 19:29:40,953 - INFO - Mensaje recibido de ('127.0.0.1', 65161): 'Hola Mundo'
+2025-08-27 19:29:40,953 - INFO - Respuesta enviada a ('127.0.0.1', 65161): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,955 - INFO - Conexión cerrada con ('127.0.0.1', 65161)
+2025-08-27 19:29:40,979 - INFO - Nueva conexión desde ('127.0.0.1', 65162)
+2025-08-27 19:29:40,980 - INFO - Mensaje recibido de ('127.0.0.1', 65162): 'Hola Mundo'
+2025-08-27 19:29:40,982 - INFO - Respuesta enviada a ('127.0.0.1', 65162): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:40,983 - INFO - Conexión cerrada con ('127.0.0.1', 65162)
+2025-08-27 19:29:41,006 - INFO - Nueva conexión desde ('127.0.0.1', 65163)
+2025-08-27 19:29:41,006 - INFO - Mensaje recibido de ('127.0.0.1', 65163): 'Hola Mundo'
+2025-08-27 19:29:41,006 - INFO - Respuesta enviada a ('127.0.0.1', 65163): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,008 - INFO - Conexión cerrada con ('127.0.0.1', 65163)
+2025-08-27 19:29:41,036 - INFO - Nueva conexión desde ('127.0.0.1', 65164)
+2025-08-27 19:29:41,037 - INFO - Mensaje recibido de ('127.0.0.1', 65164): 'Hola Mundo'
+2025-08-27 19:29:41,038 - INFO - Respuesta enviada a ('127.0.0.1', 65164): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,039 - INFO - Conexión cerrada con ('127.0.0.1', 65164)
+2025-08-27 19:29:41,059 - INFO - Nueva conexión desde ('127.0.0.1', 65165)
+2025-08-27 19:29:41,059 - INFO - Mensaje recibido de ('127.0.0.1', 65165): 'Hola Mundo'
+2025-08-27 19:29:41,059 - INFO - Respuesta enviada a ('127.0.0.1', 65165): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,060 - INFO - Conexión cerrada con ('127.0.0.1', 65165)
+2025-08-27 19:29:41,085 - INFO - Nueva conexión desde ('127.0.0.1', 65166)
+2025-08-27 19:29:41,087 - INFO - Mensaje recibido de ('127.0.0.1', 65166): 'Hola Mundo'
+2025-08-27 19:29:41,088 - INFO - Respuesta enviada a ('127.0.0.1', 65166): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,088 - INFO - Conexión cerrada con ('127.0.0.1', 65166)
+2025-08-27 19:29:41,111 - INFO - Nueva conexión desde ('127.0.0.1', 65167)
+2025-08-27 19:29:41,111 - INFO - Mensaje recibido de ('127.0.0.1', 65167): 'Hola Mundo'
+2025-08-27 19:29:41,112 - INFO - Respuesta enviada a ('127.0.0.1', 65167): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,114 - INFO - Conexión cerrada con ('127.0.0.1', 65167)
+2025-08-27 19:29:41,140 - INFO - Nueva conexión desde ('127.0.0.1', 65168)
+2025-08-27 19:29:41,140 - INFO - Mensaje recibido de ('127.0.0.1', 65168): 'Hola Mundo'
+2025-08-27 19:29:41,141 - INFO - Respuesta enviada a ('127.0.0.1', 65168): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,141 - INFO - Conexión cerrada con ('127.0.0.1', 65168)
+2025-08-27 19:29:41,169 - INFO - Nueva conexión desde ('127.0.0.1', 65169)
+2025-08-27 19:29:41,170 - INFO - Mensaje recibido de ('127.0.0.1', 65169): 'Hola Mundo'
+2025-08-27 19:29:41,172 - INFO - Respuesta enviada a ('127.0.0.1', 65169): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,173 - INFO - Conexión cerrada con ('127.0.0.1', 65169)
+2025-08-27 19:29:41,218 - INFO - Nueva conexión desde ('127.0.0.1', 65170)
+2025-08-27 19:29:41,219 - INFO - Mensaje recibido de ('127.0.0.1', 65170): 'Hola Mundo'
+2025-08-27 19:29:41,219 - INFO - Respuesta enviada a ('127.0.0.1', 65170): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,220 - INFO - Conexión cerrada con ('127.0.0.1', 65170)
+2025-08-27 19:29:41,221 - INFO - Nueva conexión desde ('127.0.0.1', 65171)
+2025-08-27 19:29:41,222 - INFO - Mensaje recibido de ('127.0.0.1', 65171): 'Hola Mundo'
+2025-08-27 19:29:41,223 - INFO - Respuesta enviada a ('127.0.0.1', 65171): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,224 - INFO - Conexión cerrada con ('127.0.0.1', 65171)
+2025-08-27 19:29:41,242 - INFO - Nueva conexión desde ('127.0.0.1', 65172)
+2025-08-27 19:29:41,243 - INFO - Mensaje recibido de ('127.0.0.1', 65172): 'Hola Mundo'
+2025-08-27 19:29:41,244 - INFO - Respuesta enviada a ('127.0.0.1', 65172): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,244 - INFO - Conexión cerrada con ('127.0.0.1', 65172)
+2025-08-27 19:29:41,270 - INFO - Nueva conexión desde ('127.0.0.1', 65173)
+2025-08-27 19:29:41,271 - INFO - Mensaje recibido de ('127.0.0.1', 65173): 'Hola Mundo'
+2025-08-27 19:29:41,271 - INFO - Respuesta enviada a ('127.0.0.1', 65173): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,273 - INFO - Conexión cerrada con ('127.0.0.1', 65173)
+2025-08-27 19:29:41,288 - INFO - Nueva conexión desde ('127.0.0.1', 65174)
+2025-08-27 19:29:41,289 - INFO - Mensaje recibido de ('127.0.0.1', 65174): 'Hola Mundo'
+2025-08-27 19:29:41,290 - INFO - Respuesta enviada a ('127.0.0.1', 65174): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,291 - INFO - Conexión cerrada con ('127.0.0.1', 65174)
+2025-08-27 19:29:41,327 - INFO - Nueva conexión desde ('127.0.0.1', 65175)
+2025-08-27 19:29:41,328 - INFO - Mensaje recibido de ('127.0.0.1', 65175): 'Hola Mundo'
+2025-08-27 19:29:41,328 - INFO - Respuesta enviada a ('127.0.0.1', 65175): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,330 - INFO - Conexión cerrada con ('127.0.0.1', 65175)
+2025-08-27 19:29:41,355 - INFO - Nueva conexión desde ('127.0.0.1', 65176)
+2025-08-27 19:29:41,357 - INFO - Mensaje recibido de ('127.0.0.1', 65176): 'Hola Mundo'
+2025-08-27 19:29:41,358 - INFO - Respuesta enviada a ('127.0.0.1', 65176): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,360 - INFO - Conexión cerrada con ('127.0.0.1', 65176)
+2025-08-27 19:29:41,361 - INFO - Nueva conexión desde ('127.0.0.1', 65177)
+2025-08-27 19:29:41,362 - INFO - Mensaje recibido de ('127.0.0.1', 65177): 'Hola Mundo'
+2025-08-27 19:29:41,364 - INFO - Respuesta enviada a ('127.0.0.1', 65177): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,368 - INFO - Conexión cerrada con ('127.0.0.1', 65177)
+2025-08-27 19:29:41,378 - INFO - Nueva conexión desde ('127.0.0.1', 65178)
+2025-08-27 19:29:41,378 - INFO - Mensaje recibido de ('127.0.0.1', 65178): 'Hola Mundo'
+2025-08-27 19:29:41,380 - INFO - Respuesta enviada a ('127.0.0.1', 65178): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,386 - INFO - Conexión cerrada con ('127.0.0.1', 65178)
+2025-08-27 19:29:41,427 - INFO - Nueva conexión desde ('127.0.0.1', 65179)
+2025-08-27 19:29:41,427 - INFO - Mensaje recibido de ('127.0.0.1', 65179): 'Hola Mundo'
+2025-08-27 19:29:41,428 - INFO - Respuesta enviada a ('127.0.0.1', 65179): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,428 - INFO - Conexión cerrada con ('127.0.0.1', 65179)
+2025-08-27 19:29:41,478 - INFO - Nueva conexión desde ('127.0.0.1', 65180)
+2025-08-27 19:29:41,480 - INFO - Mensaje recibido de ('127.0.0.1', 65180): 'Hola Mundo'
+2025-08-27 19:29:41,482 - INFO - Respuesta enviada a ('127.0.0.1', 65180): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,485 - INFO - Conexión cerrada con ('127.0.0.1', 65180)
+2025-08-27 19:29:41,488 - INFO - Nueva conexión desde ('127.0.0.1', 65181)
+2025-08-27 19:29:41,490 - INFO - Mensaje recibido de ('127.0.0.1', 65181): 'Hola Mundo'
+2025-08-27 19:29:41,491 - INFO - Respuesta enviada a ('127.0.0.1', 65181): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,492 - INFO - Conexión cerrada con ('127.0.0.1', 65181)
+2025-08-27 19:29:41,507 - INFO - Nueva conexión desde ('127.0.0.1', 65182)
+2025-08-27 19:29:41,508 - INFO - Mensaje recibido de ('127.0.0.1', 65182): 'Hola Mundo'
+2025-08-27 19:29:41,510 - INFO - Respuesta enviada a ('127.0.0.1', 65182): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,512 - INFO - Conexión cerrada con ('127.0.0.1', 65182)
+2025-08-27 19:29:41,525 - INFO - Nueva conexión desde ('127.0.0.1', 65183)
+2025-08-27 19:29:41,526 - INFO - Mensaje recibido de ('127.0.0.1', 65183): 'Hola Mundo'
+2025-08-27 19:29:41,526 - INFO - Respuesta enviada a ('127.0.0.1', 65183): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,527 - INFO - Conexión cerrada con ('127.0.0.1', 65183)
+2025-08-27 19:29:41,547 - INFO - Nueva conexión desde ('127.0.0.1', 65184)
+2025-08-27 19:29:41,548 - INFO - Mensaje recibido de ('127.0.0.1', 65184): 'Hola Mundo'
+2025-08-27 19:29:41,550 - INFO - Respuesta enviada a ('127.0.0.1', 65184): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,551 - INFO - Conexión cerrada con ('127.0.0.1', 65184)
+2025-08-27 19:29:41,571 - INFO - Nueva conexión desde ('127.0.0.1', 65185)
+2025-08-27 19:29:41,572 - INFO - Mensaje recibido de ('127.0.0.1', 65185): 'Hola Mundo'
+2025-08-27 19:29:41,573 - INFO - Respuesta enviada a ('127.0.0.1', 65185): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,574 - INFO - Conexión cerrada con ('127.0.0.1', 65185)
+2025-08-27 19:29:41,622 - INFO - Nueva conexión desde ('127.0.0.1', 65187)
+2025-08-27 19:29:41,624 - INFO - Mensaje recibido de ('127.0.0.1', 65187): 'Hola Mundo'
+2025-08-27 19:29:41,625 - INFO - Nueva conexión desde ('127.0.0.1', 65186)
+2025-08-27 19:29:41,625 - INFO - Respuesta enviada a ('127.0.0.1', 65187): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,626 - INFO - Mensaje recibido de ('127.0.0.1', 65186): 'Hola Mundo'
+2025-08-27 19:29:41,627 - INFO - Conexión cerrada con ('127.0.0.1', 65187)
+2025-08-27 19:29:41,627 - INFO - Respuesta enviada a ('127.0.0.1', 65186): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,628 - INFO - Conexión cerrada con ('127.0.0.1', 65186)
+2025-08-27 19:29:41,671 - INFO - Nueva conexión desde ('127.0.0.1', 65188)
+2025-08-27 19:29:41,672 - INFO - Mensaje recibido de ('127.0.0.1', 65188): 'Hola Mundo'
+2025-08-27 19:29:41,674 - INFO - Respuesta enviada a ('127.0.0.1', 65188): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,674 - INFO - Conexión cerrada con ('127.0.0.1', 65188)
+2025-08-27 19:29:41,695 - INFO - Nueva conexión desde ('127.0.0.1', 65189)
+2025-08-27 19:29:41,696 - INFO - Mensaje recibido de ('127.0.0.1', 65189): 'Hola Mundo'
+2025-08-27 19:29:41,700 - INFO - Respuesta enviada a ('127.0.0.1', 65189): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,701 - INFO - Nueva conexión desde ('127.0.0.1', 65190)
+2025-08-27 19:29:41,703 - INFO - Conexión cerrada con ('127.0.0.1', 65189)
+2025-08-27 19:29:41,704 - INFO - Mensaje recibido de ('127.0.0.1', 65190): 'Hola Mundo'
+2025-08-27 19:29:41,706 - INFO - Respuesta enviada a ('127.0.0.1', 65190): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,709 - INFO - Conexión cerrada con ('127.0.0.1', 65190)
+2025-08-27 19:29:41,727 - INFO - Nueva conexión desde ('127.0.0.1', 65191)
+2025-08-27 19:29:41,735 - INFO - Mensaje recibido de ('127.0.0.1', 65191): 'Hola Mundo'
+2025-08-27 19:29:41,737 - INFO - Respuesta enviada a ('127.0.0.1', 65191): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,740 - INFO - Conexión cerrada con ('127.0.0.1', 65191)
+2025-08-27 19:29:41,745 - INFO - Nueva conexión desde ('127.0.0.1', 65192)
+2025-08-27 19:29:41,748 - INFO - Mensaje recibido de ('127.0.0.1', 65192): 'Hola Mundo'
+2025-08-27 19:29:41,749 - INFO - Respuesta enviada a ('127.0.0.1', 65192): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,753 - INFO - Conexión cerrada con ('127.0.0.1', 65192)
+2025-08-27 19:29:41,763 - INFO - Nueva conexión desde ('127.0.0.1', 65193)
+2025-08-27 19:29:41,765 - INFO - Mensaje recibido de ('127.0.0.1', 65193): 'Hola Mundo'
+2025-08-27 19:29:41,768 - INFO - Respuesta enviada a ('127.0.0.1', 65193): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,768 - INFO - Conexión cerrada con ('127.0.0.1', 65193)
+2025-08-27 19:29:41,771 - INFO - Nueva conexión desde ('127.0.0.1', 65194)
+2025-08-27 19:29:41,772 - INFO - Mensaje recibido de ('127.0.0.1', 65194): 'Hola Mundo'
+2025-08-27 19:29:41,773 - INFO - Respuesta enviada a ('127.0.0.1', 65194): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,774 - INFO - Conexión cerrada con ('127.0.0.1', 65194)
+2025-08-27 19:29:41,841 - INFO - Nueva conexión desde ('127.0.0.1', 65195)
+2025-08-27 19:29:41,843 - INFO - Mensaje recibido de ('127.0.0.1', 65195): 'Hola Mundo'
+2025-08-27 19:29:41,844 - INFO - Respuesta enviada a ('127.0.0.1', 65195): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,844 - INFO - Conexión cerrada con ('127.0.0.1', 65195)
+2025-08-27 19:29:41,846 - INFO - Nueva conexión desde ('127.0.0.1', 65196)
+2025-08-27 19:29:41,847 - INFO - Mensaje recibido de ('127.0.0.1', 65196): 'Hola Mundo'
+2025-08-27 19:29:41,848 - INFO - Respuesta enviada a ('127.0.0.1', 65196): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,849 - INFO - Conexión cerrada con ('127.0.0.1', 65196)
+2025-08-27 19:29:41,870 - INFO - Nueva conexión desde ('127.0.0.1', 65197)
+2025-08-27 19:29:41,870 - INFO - Mensaje recibido de ('127.0.0.1', 65197): 'Hola Mundo'
+2025-08-27 19:29:41,872 - INFO - Respuesta enviada a ('127.0.0.1', 65197): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,873 - INFO - Conexión cerrada con ('127.0.0.1', 65197)
+2025-08-27 19:29:41,892 - INFO - Nueva conexión desde ('127.0.0.1', 65198)
+2025-08-27 19:29:41,892 - INFO - Mensaje recibido de ('127.0.0.1', 65198): 'Hola Mundo'
+2025-08-27 19:29:41,893 - INFO - Respuesta enviada a ('127.0.0.1', 65198): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,893 - INFO - Conexión cerrada con ('127.0.0.1', 65198)
+2025-08-27 19:29:41,920 - INFO - Nueva conexión desde ('127.0.0.1', 65199)
+2025-08-27 19:29:41,920 - INFO - Mensaje recibido de ('127.0.0.1', 65199): 'Hola Mundo'
+2025-08-27 19:29:41,921 - INFO - Respuesta enviada a ('127.0.0.1', 65199): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,922 - INFO - Conexión cerrada con ('127.0.0.1', 65199)
+2025-08-27 19:29:41,940 - INFO - Nueva conexión desde ('127.0.0.1', 65200)
+2025-08-27 19:29:41,941 - INFO - Mensaje recibido de ('127.0.0.1', 65200): 'Hola Mundo'
+2025-08-27 19:29:41,941 - INFO - Respuesta enviada a ('127.0.0.1', 65200): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,942 - INFO - Conexión cerrada con ('127.0.0.1', 65200)
+2025-08-27 19:29:41,968 - INFO - Nueva conexión desde ('127.0.0.1', 65201)
+2025-08-27 19:29:41,968 - INFO - Mensaje recibido de ('127.0.0.1', 65201): 'Hola Mundo'
+2025-08-27 19:29:41,968 - INFO - Respuesta enviada a ('127.0.0.1', 65201): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,969 - INFO - Conexión cerrada con ('127.0.0.1', 65201)
+2025-08-27 19:29:41,986 - INFO - Nueva conexión desde ('127.0.0.1', 65202)
+2025-08-27 19:29:41,986 - INFO - Mensaje recibido de ('127.0.0.1', 65202): 'Hola Mundo'
+2025-08-27 19:29:41,987 - INFO - Respuesta enviada a ('127.0.0.1', 65202): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,987 - INFO - Conexión cerrada con ('127.0.0.1', 65202)
+2025-08-27 19:29:41,993 - INFO - Nueva conexión desde ('127.0.0.1', 65203)
+2025-08-27 19:29:41,993 - INFO - Mensaje recibido de ('127.0.0.1', 65203): 'Hola Mundo'
+2025-08-27 19:29:41,994 - INFO - Respuesta enviada a ('127.0.0.1', 65203): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:41,994 - INFO - Conexión cerrada con ('127.0.0.1', 65203)
+2025-08-27 19:29:42,062 - INFO - Nueva conexión desde ('127.0.0.1', 65204)
+2025-08-27 19:29:42,062 - INFO - Mensaje recibido de ('127.0.0.1', 65204): 'Hola Mundo'
+2025-08-27 19:29:42,064 - INFO - Respuesta enviada a ('127.0.0.1', 65204): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,064 - INFO - Conexión cerrada con ('127.0.0.1', 65204)
+2025-08-27 19:29:42,073 - INFO - Nueva conexión desde ('127.0.0.1', 65205)
+2025-08-27 19:29:42,075 - INFO - Mensaje recibido de ('127.0.0.1', 65205): 'Hola Mundo'
+2025-08-27 19:29:42,076 - INFO - Respuesta enviada a ('127.0.0.1', 65205): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,076 - INFO - Conexión cerrada con ('127.0.0.1', 65205)
+2025-08-27 19:29:42,101 - INFO - Nueva conexión desde ('127.0.0.1', 65206)
+2025-08-27 19:29:42,102 - INFO - Mensaje recibido de ('127.0.0.1', 65206): 'Hola Mundo'
+2025-08-27 19:29:42,103 - INFO - Respuesta enviada a ('127.0.0.1', 65206): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,103 - INFO - Conexión cerrada con ('127.0.0.1', 65206)
+2025-08-27 19:29:42,119 - INFO - Nueva conexión desde ('127.0.0.1', 65207)
+2025-08-27 19:29:42,120 - INFO - Mensaje recibido de ('127.0.0.1', 65207): 'Hola Mundo'
+2025-08-27 19:29:42,121 - INFO - Respuesta enviada a ('127.0.0.1', 65207): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,121 - INFO - Conexión cerrada con ('127.0.0.1', 65207)
+2025-08-27 19:29:42,144 - INFO - Nueva conexión desde ('127.0.0.1', 65208)
+2025-08-27 19:29:42,144 - INFO - Mensaje recibido de ('127.0.0.1', 65208): 'Hola Mundo'
+2025-08-27 19:29:42,144 - INFO - Respuesta enviada a ('127.0.0.1', 65208): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,145 - INFO - Conexión cerrada con ('127.0.0.1', 65208)
+2025-08-27 19:29:42,170 - INFO - Nueva conexión desde ('127.0.0.1', 65209)
+2025-08-27 19:29:42,170 - INFO - Mensaje recibido de ('127.0.0.1', 65209): 'Hola Mundo'
+2025-08-27 19:29:42,171 - INFO - Respuesta enviada a ('127.0.0.1', 65209): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,171 - INFO - Conexión cerrada con ('127.0.0.1', 65209)
+2025-08-27 19:29:42,193 - INFO - Nueva conexión desde ('127.0.0.1', 65210)
+2025-08-27 19:29:42,194 - INFO - Mensaje recibido de ('127.0.0.1', 65210): 'Hola Mundo'
+2025-08-27 19:29:42,194 - INFO - Respuesta enviada a ('127.0.0.1', 65210): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,195 - INFO - Conexión cerrada con ('127.0.0.1', 65210)
+2025-08-27 19:29:42,212 - INFO - Nueva conexión desde ('127.0.0.1', 65211)
+2025-08-27 19:29:42,213 - INFO - Mensaje recibido de ('127.0.0.1', 65211): 'Hola Mundo'
+2025-08-27 19:29:42,213 - INFO - Respuesta enviada a ('127.0.0.1', 65211): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,215 - INFO - Conexión cerrada con ('127.0.0.1', 65211)
+2025-08-27 19:29:42,220 - INFO - Nueva conexión desde ('127.0.0.1', 65212)
+2025-08-27 19:29:42,221 - INFO - Mensaje recibido de ('127.0.0.1', 65212): 'Hola Mundo'
+2025-08-27 19:29:42,221 - INFO - Respuesta enviada a ('127.0.0.1', 65212): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,222 - INFO - Conexión cerrada con ('127.0.0.1', 65212)
+2025-08-27 19:29:42,266 - INFO - Nueva conexión desde ('127.0.0.1', 65213)
+2025-08-27 19:29:42,267 - INFO - Mensaje recibido de ('127.0.0.1', 65213): 'Hola Mundo'
+2025-08-27 19:29:42,268 - INFO - Respuesta enviada a ('127.0.0.1', 65213): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,268 - INFO - Conexión cerrada con ('127.0.0.1', 65213)
+2025-08-27 19:29:42,285 - INFO - Nueva conexión desde ('127.0.0.1', 65214)
+2025-08-27 19:29:42,287 - INFO - Mensaje recibido de ('127.0.0.1', 65214): 'Hola Mundo'
+2025-08-27 19:29:42,288 - INFO - Respuesta enviada a ('127.0.0.1', 65214): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,288 - INFO - Conexión cerrada con ('127.0.0.1', 65214)
+2025-08-27 19:29:42,290 - INFO - Nueva conexión desde ('127.0.0.1', 65215)
+2025-08-27 19:29:42,290 - INFO - Mensaje recibido de ('127.0.0.1', 65215): 'Hola Mundo'
+2025-08-27 19:29:42,291 - INFO - Respuesta enviada a ('127.0.0.1', 65215): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,291 - INFO - Conexión cerrada con ('127.0.0.1', 65215)
+2025-08-27 19:29:42,335 - INFO - Nueva conexión desde ('127.0.0.1', 65216)
+2025-08-27 19:29:42,337 - INFO - Mensaje recibido de ('127.0.0.1', 65216): 'Hola Mundo'
+2025-08-27 19:29:42,339 - INFO - Nueva conexión desde ('127.0.0.1', 65217)
+2025-08-27 19:29:42,340 - INFO - Respuesta enviada a ('127.0.0.1', 65216): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,341 - INFO - Mensaje recibido de ('127.0.0.1', 65217): 'Hola Mundo'
+2025-08-27 19:29:42,342 - INFO - Conexión cerrada con ('127.0.0.1', 65216)
+2025-08-27 19:29:42,342 - INFO - Respuesta enviada a ('127.0.0.1', 65217): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,344 - INFO - Conexión cerrada con ('127.0.0.1', 65217)
+2025-08-27 19:29:42,361 - INFO - Nueva conexión desde ('127.0.0.1', 65218)
+2025-08-27 19:29:42,361 - INFO - Mensaje recibido de ('127.0.0.1', 65218): 'Hola Mundo'
+2025-08-27 19:29:42,362 - INFO - Respuesta enviada a ('127.0.0.1', 65218): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,364 - INFO - Conexión cerrada con ('127.0.0.1', 65218)
+2025-08-27 19:29:42,412 - INFO - Nueva conexión desde ('127.0.0.1', 65219)
+2025-08-27 19:29:42,413 - INFO - Mensaje recibido de ('127.0.0.1', 65219): 'Hola Mundo'
+2025-08-27 19:29:42,414 - INFO - Respuesta enviada a ('127.0.0.1', 65219): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,415 - INFO - Conexión cerrada con ('127.0.0.1', 65219)
+2025-08-27 19:29:42,438 - INFO - Nueva conexión desde ('127.0.0.1', 65220)
+2025-08-27 19:29:42,438 - INFO - Mensaje recibido de ('127.0.0.1', 65220): 'Hola Mundo'
+2025-08-27 19:29:42,439 - INFO - Respuesta enviada a ('127.0.0.1', 65220): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,439 - INFO - Conexión cerrada con ('127.0.0.1', 65220)
+2025-08-27 19:29:42,465 - INFO - Nueva conexión desde ('127.0.0.1', 65221)
+2025-08-27 19:29:42,466 - INFO - Mensaje recibido de ('127.0.0.1', 65221): 'Hola Mundo'
+2025-08-27 19:29:42,467 - INFO - Respuesta enviada a ('127.0.0.1', 65221): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,467 - INFO - Conexión cerrada con ('127.0.0.1', 65221)
+2025-08-27 19:29:42,488 - INFO - Nueva conexión desde ('127.0.0.1', 65222)
+2025-08-27 19:29:42,493 - INFO - Mensaje recibido de ('127.0.0.1', 65222): 'Hola Mundo'
+2025-08-27 19:29:42,494 - INFO - Nueva conexión desde ('127.0.0.1', 65223)
+2025-08-27 19:29:42,494 - INFO - Respuesta enviada a ('127.0.0.1', 65222): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,495 - INFO - Mensaje recibido de ('127.0.0.1', 65223): 'Hola Mundo'
+2025-08-27 19:29:42,498 - INFO - Conexión cerrada con ('127.0.0.1', 65222)
+2025-08-27 19:29:42,499 - INFO - Respuesta enviada a ('127.0.0.1', 65223): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,502 - INFO - Conexión cerrada con ('127.0.0.1', 65223)
+2025-08-27 19:29:42,541 - INFO - Nueva conexión desde ('127.0.0.1', 65224)
+2025-08-27 19:29:42,541 - INFO - Mensaje recibido de ('127.0.0.1', 65224): 'Hola Mundo'
+2025-08-27 19:29:42,543 - INFO - Respuesta enviada a ('127.0.0.1', 65224): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,543 - INFO - Conexión cerrada con ('127.0.0.1', 65224)
+2025-08-27 19:29:42,567 - INFO - Nueva conexión desde ('127.0.0.1', 65225)
+2025-08-27 19:29:42,569 - INFO - Mensaje recibido de ('127.0.0.1', 65225): 'Hola Mundo'
+2025-08-27 19:29:42,571 - INFO - Respuesta enviada a ('127.0.0.1', 65225): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,573 - INFO - Conexión cerrada con ('127.0.0.1', 65225)
+2025-08-27 19:29:42,591 - INFO - Nueva conexión desde ('127.0.0.1', 65226)
+2025-08-27 19:29:42,592 - INFO - Mensaje recibido de ('127.0.0.1', 65226): 'Hola Mundo'
+2025-08-27 19:29:42,595 - INFO - Respuesta enviada a ('127.0.0.1', 65226): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,602 - INFO - Conexión cerrada con ('127.0.0.1', 65226)
+2025-08-27 19:29:42,618 - INFO - Nueva conexión desde ('127.0.0.1', 65227)
+2025-08-27 19:29:42,618 - INFO - Mensaje recibido de ('127.0.0.1', 65227): 'Hola Mundo'
+2025-08-27 19:29:42,620 - INFO - Respuesta enviada a ('127.0.0.1', 65227): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,620 - INFO - Conexión cerrada con ('127.0.0.1', 65227)
+2025-08-27 19:29:42,638 - INFO - Nueva conexión desde ('127.0.0.1', 65228)
+2025-08-27 19:29:42,639 - INFO - Mensaje recibido de ('127.0.0.1', 65228): 'Hola Mundo'
+2025-08-27 19:29:42,640 - INFO - Respuesta enviada a ('127.0.0.1', 65228): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,641 - INFO - Conexión cerrada con ('127.0.0.1', 65228)
+2025-08-27 19:29:42,659 - INFO - Nueva conexión desde ('127.0.0.1', 65229)
+2025-08-27 19:29:42,661 - INFO - Mensaje recibido de ('127.0.0.1', 65229): 'Hola Mundo'
+2025-08-27 19:29:42,661 - INFO - Respuesta enviada a ('127.0.0.1', 65229): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,663 - INFO - Conexión cerrada con ('127.0.0.1', 65229)
+2025-08-27 19:29:42,664 - INFO - Nueva conexión desde ('127.0.0.1', 65230)
+2025-08-27 19:29:42,665 - INFO - Mensaje recibido de ('127.0.0.1', 65230): 'Hola Mundo'
+2025-08-27 19:29:42,666 - INFO - Respuesta enviada a ('127.0.0.1', 65230): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,666 - INFO - Conexión cerrada con ('127.0.0.1', 65230)
+2025-08-27 19:29:42,716 - INFO - Nueva conexión desde ('127.0.0.1', 65231)
+2025-08-27 19:29:42,716 - INFO - Mensaje recibido de ('127.0.0.1', 65231): 'Hola Mundo'
+2025-08-27 19:29:42,717 - INFO - Respuesta enviada a ('127.0.0.1', 65231): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,717 - INFO - Conexión cerrada con ('127.0.0.1', 65231)
+2025-08-27 19:29:42,739 - INFO - Nueva conexión desde ('127.0.0.1', 65232)
+2025-08-27 19:29:42,740 - INFO - Mensaje recibido de ('127.0.0.1', 65232): 'Hola Mundo'
+2025-08-27 19:29:42,740 - INFO - Respuesta enviada a ('127.0.0.1', 65232): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,740 - INFO - Conexión cerrada con ('127.0.0.1', 65232)
+2025-08-27 19:29:42,769 - INFO - Nueva conexión desde ('127.0.0.1', 65233)
+2025-08-27 19:29:42,769 - INFO - Mensaje recibido de ('127.0.0.1', 65233): 'Hola Mundo'
+2025-08-27 19:29:42,770 - INFO - Respuesta enviada a ('127.0.0.1', 65233): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,770 - INFO - Conexión cerrada con ('127.0.0.1', 65233)
+2025-08-27 19:29:42,789 - INFO - Nueva conexión desde ('127.0.0.1', 65234)
+2025-08-27 19:29:42,790 - INFO - Mensaje recibido de ('127.0.0.1', 65234): 'Hola Mundo'
+2025-08-27 19:29:42,791 - INFO - Respuesta enviada a ('127.0.0.1', 65234): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,792 - INFO - Conexión cerrada con ('127.0.0.1', 65234)
+2025-08-27 19:29:42,814 - INFO - Nueva conexión desde ('127.0.0.1', 65235)
+2025-08-27 19:29:42,814 - INFO - Mensaje recibido de ('127.0.0.1', 65235): 'Hola Mundo'
+2025-08-27 19:29:42,815 - INFO - Respuesta enviada a ('127.0.0.1', 65235): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,815 - INFO - Conexión cerrada con ('127.0.0.1', 65235)
+2025-08-27 19:29:42,837 - INFO - Nueva conexión desde ('127.0.0.1', 65236)
+2025-08-27 19:29:42,838 - INFO - Mensaje recibido de ('127.0.0.1', 65236): 'Hola Mundo'
+2025-08-27 19:29:42,838 - INFO - Respuesta enviada a ('127.0.0.1', 65236): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,839 - INFO - Conexión cerrada con ('127.0.0.1', 65236)
+2025-08-27 19:29:42,862 - INFO - Nueva conexión desde ('127.0.0.1', 65237)
+2025-08-27 19:29:42,863 - INFO - Mensaje recibido de ('127.0.0.1', 65237): 'Hola Mundo'
+2025-08-27 19:29:42,865 - INFO - Respuesta enviada a ('127.0.0.1', 65237): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,866 - INFO - Conexión cerrada con ('127.0.0.1', 65237)
+2025-08-27 19:29:42,885 - INFO - Nueva conexión desde ('127.0.0.1', 65238)
+2025-08-27 19:29:42,886 - INFO - Mensaje recibido de ('127.0.0.1', 65238): 'Hola Mundo'
+2025-08-27 19:29:42,886 - INFO - Respuesta enviada a ('127.0.0.1', 65238): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,886 - INFO - Conexión cerrada con ('127.0.0.1', 65238)
+2025-08-27 19:29:42,908 - INFO - Nueva conexión desde ('127.0.0.1', 65239)
+2025-08-27 19:29:42,909 - INFO - Mensaje recibido de ('127.0.0.1', 65239): 'Hola Mundo'
+2025-08-27 19:29:42,910 - INFO - Respuesta enviada a ('127.0.0.1', 65239): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,910 - INFO - Conexión cerrada con ('127.0.0.1', 65239)
+2025-08-27 19:29:42,934 - INFO - Nueva conexión desde ('127.0.0.1', 65240)
+2025-08-27 19:29:42,935 - INFO - Mensaje recibido de ('127.0.0.1', 65240): 'Hola Mundo'
+2025-08-27 19:29:42,936 - INFO - Respuesta enviada a ('127.0.0.1', 65240): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,937 - INFO - Conexión cerrada con ('127.0.0.1', 65240)
+2025-08-27 19:29:42,956 - INFO - Nueva conexión desde ('127.0.0.1', 65241)
+2025-08-27 19:29:42,957 - INFO - Mensaje recibido de ('127.0.0.1', 65241): 'Hola Mundo'
+2025-08-27 19:29:42,958 - INFO - Respuesta enviada a ('127.0.0.1', 65241): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,958 - INFO - Conexión cerrada con ('127.0.0.1', 65241)
+2025-08-27 19:29:42,982 - INFO - Nueva conexión desde ('127.0.0.1', 65242)
+2025-08-27 19:29:42,983 - INFO - Mensaje recibido de ('127.0.0.1', 65242): 'Hola Mundo'
+2025-08-27 19:29:42,985 - INFO - Respuesta enviada a ('127.0.0.1', 65242): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:42,985 - INFO - Conexión cerrada con ('127.0.0.1', 65242)
+2025-08-27 19:29:43,006 - INFO - Nueva conexión desde ('127.0.0.1', 65243)
+2025-08-27 19:29:43,006 - INFO - Mensaje recibido de ('127.0.0.1', 65243): 'Hola Mundo'
+2025-08-27 19:29:43,007 - INFO - Respuesta enviada a ('127.0.0.1', 65243): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:43,007 - INFO - Conexión cerrada con ('127.0.0.1', 65243)
+2025-08-27 19:29:43,037 - INFO - Nueva conexión desde ('127.0.0.1', 65244)
+2025-08-27 19:29:43,038 - INFO - Mensaje recibido de ('127.0.0.1', 65244): 'Hola Mundo'
+2025-08-27 19:29:43,040 - INFO - Respuesta enviada a ('127.0.0.1', 65244): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:43,041 - INFO - Conexión cerrada con ('127.0.0.1', 65244)
+2025-08-27 19:29:43,057 - INFO - Nueva conexión desde ('127.0.0.1', 65245)
+2025-08-27 19:29:43,057 - INFO - Mensaje recibido de ('127.0.0.1', 65245): 'Hola Mundo'
+2025-08-27 19:29:43,057 - INFO - Respuesta enviada a ('127.0.0.1', 65245): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:43,059 - INFO - Conexión cerrada con ('127.0.0.1', 65245)
+2025-08-27 19:29:43,085 - INFO - Nueva conexión desde ('127.0.0.1', 65246)
+2025-08-27 19:29:43,086 - INFO - Mensaje recibido de ('127.0.0.1', 65246): 'Hola Mundo'
+2025-08-27 19:29:43,087 - INFO - Respuesta enviada a ('127.0.0.1', 65246): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:43,089 - INFO - Conexión cerrada con ('127.0.0.1', 65246)
+2025-08-27 19:29:43,108 - INFO - Nueva conexión desde ('127.0.0.1', 65247)
+2025-08-27 19:29:43,108 - INFO - Mensaje recibido de ('127.0.0.1', 65247): 'Hola Mundo'
+2025-08-27 19:29:43,111 - INFO - Respuesta enviada a ('127.0.0.1', 65247): {'message': 'Hola Mundo', 'last_char': 'o', 'count': 2, 'message_length': 10}
+2025-08-27 19:29:43,115 - INFO - Conexión cerrada con ('127.0.0.1', 65247)
